@@ -15,7 +15,6 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddMassTransit(busConfigurator =>
 {
-    busConfigurator.SetDefaultEndpointNameFormatter();
     busConfigurator.UsingRabbitMq((context, busFactoryConfigurator) =>
     {
         busFactoryConfigurator.Host("jackal-01.rmq.cloudamqp.com", 5671, "zrdaqmiq", h =>
@@ -28,8 +27,6 @@ builder.Services.AddMassTransit(busConfigurator =>
                 s.Protocol = SslProtocols.Tls12;
             });
         });
-
-        // busFactoryConfigurator.ReceiveEndpoint("Message", e => { });
     });
 });
 

@@ -1,3 +1,4 @@
+using AllogRedis.Api.DbContexts;
 using Microsoft.EntityFrameworkCore;
 using StackExchange.Redis;
 

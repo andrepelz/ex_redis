@@ -1,0 +1,12 @@
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\bin\Debug\net7.0\AllogRedis.Shared.deps.json
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\bin\Debug\net7.0\AllogRedis.Shared.dll
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\bin\Debug\net7.0\AllogRedis.Shared.pdb
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\obj\Debug\net7.0\AllogRedis.Shared.csproj.AssemblyReference.cache
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\obj\Debug\net7.0\AllogRedis.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\obj\Debug\net7.0\AllogRedis.Shared.AssemblyInfoInputs.cache
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\obj\Debug\net7.0\AllogRedis.Shared.AssemblyInfo.cs
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\obj\Debug\net7.0\AllogRedis.Shared.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\obj\Debug\net7.0\AllogRedis.Shared.dll
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\obj\Debug\net7.0\refint\AllogRedis.Shared.dll
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\obj\Debug\net7.0\AllogRedis.Shared.pdb
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Shared\obj\Debug\net7.0\ref\AllogRedis.Shared.dll

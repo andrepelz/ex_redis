@@ -1,4 +1,4 @@
-namespace AllogRedis.Api;
+namespace AllogRedis.Api.Entities;
 
 public class Cotacao
 {

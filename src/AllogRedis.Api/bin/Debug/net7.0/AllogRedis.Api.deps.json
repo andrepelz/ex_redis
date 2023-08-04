@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "AllogRedis.Api/1.0.0": {
         "dependencies": {
+          "AllogRedis.Shared": "1.0.0",
           "MassTransit": "8.0.16",
           "MassTransit.Extensions.DependencyInjection": "7.3.1",
           "MassTransit.RabbitMQ": "8.0.16",
@@ -363,7 +364,12 @@
           "System.Text.Encodings.Web": "7.0.0"
         }
       },
-      "System.Threading.Channels/7.0.0": {}
+      "System.Threading.Channels/7.0.0": {},
+      "AllogRedis.Shared/1.0.0": {
+        "runtime": {
+          "AllogRedis.Shared.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -707,6 +713,11 @@
       "sha512": "sha512-qmeeYNROMsONF6ndEZcIQ+VxR4Q/TX/7uIVLJqtwIWL7dDWeh0l1UIqgo4wYyjG//5lUNhwkLDSFl+pAWO6oiA==",
       "path": "system.threading.channels/7.0.0",
       "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
+    },
+    "AllogRedis.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -48,3 +48,5 @@ E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRed
 E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Api\bin\Debug\net7.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
 E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Api\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
 E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Api\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Api\bin\Debug\net7.0\AllogRedis.Shared.dll
+E:\Program Files (x86)\trabalho\Curso Allog Enter\Modulo 3\ex_redis\src\AllogRedis.Api\bin\Debug\net7.0\AllogRedis.Shared.pdb

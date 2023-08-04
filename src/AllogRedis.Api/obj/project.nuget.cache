@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1rCc3goCgHYH+uV0iM7dOtBlm05sloTxa4+BhP//Ulo4ohfiDv2uRHkrBw5a1giGpPHpCSQZc8NZBZIoNWx1zA==",
+  "dgSpecHash": "POwUYsWxbc5KZn+H15k/v7wOhsW1PqMhtITZ/GCM23TiFODN+DCJKx7Z0XB9rhPw3WVU/bNUAJDAGCd+l+hvJQ==",
   "success": true,
   "projectFilePath": "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj",
   "expectedPackageFiles": [

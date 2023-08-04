@@ -1,4 +1,7 @@
 using System.Text.Json;
+using AllogRedis.Api.DbContexts;
+using AllogRedis.Api.Entities;
+using AllogRedis.Shared;
 using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 using StackExchange.Redis;
@@ -62,20 +65,9 @@ public class CotacaoController : ControllerBase
 
         if(cotacaoDolar != null && cotacaoDolar.Valor < 3)
         {
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine("Cotação do dólar está abaixo de R$3,00!");
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-
             await _publishEndpoint.Publish<IMessage>(new {
                 Date = DateTime.Now,
-                Message = "Cotação do dólar está abaixo de R$3,00!",
+                Message = "Cotacao do dolar esta abaixo de R$3,00!",
                 Author = "RedisExampleAPI"
             });
         }

@@ -1,6 +1,7 @@
+using AllogRedis.Api.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace AllogRedis.Api;
+namespace AllogRedis.Api.DbContexts;
 
 public class CotacaoContext : DbContext
 {

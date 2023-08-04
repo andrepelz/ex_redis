@@ -1,4 +1,4 @@
-namespace AllogRedis.Api;
+namespace AllogRedis.Shared;
 
 public interface IMessage
 {
