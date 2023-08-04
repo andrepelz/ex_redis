@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj": {}
+    "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj": {}
   },
   "projects": {
-    "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj": {
+    "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj",
+        "projectUniqueName": "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj",
         "projectName": "AllogRedis.Api",
-        "projectPath": "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj",
+        "projectPath": "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj",
         "packagesPath": "C:\\Users\\Avell\\.nuget\\packages\\",
-        "outputPath": "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\obj\\",
+        "outputPath": "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Avell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\AllogRedis.Shared.csproj": {
-                "projectPath": "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\AllogRedis.Shared.csproj"
+              "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\AllogRedis.Shared.csproj": {
+                "projectPath": "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\AllogRedis.Shared.csproj"
               }
             }
           }
@@ -101,14 +101,14 @@
         }
       }
     },
-    "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\AllogRedis.Shared.csproj": {
+    "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\AllogRedis.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\AllogRedis.Shared.csproj",
+        "projectUniqueName": "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\AllogRedis.Shared.csproj",
         "projectName": "AllogRedis.Shared",
-        "projectPath": "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\AllogRedis.Shared.csproj",
+        "projectPath": "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\AllogRedis.Shared.csproj",
         "packagesPath": "C:\\Users\\Avell\\.nuget\\packages\\",
-        "outputPath": "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\obj\\",
+        "outputPath": "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Avell\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "POwUYsWxbc5KZn+H15k/v7wOhsW1PqMhtITZ/GCM23TiFODN+DCJKx7Z0XB9rhPw3WVU/bNUAJDAGCd+l+hvJQ==",
+  "dgSpecHash": "dJ523hJY4uVVJxAomM/C0w+bnj3X7GvP5GhABT16Fjbe2haCe3HeeCwVPcL8943xRRf5eGYMW3oIZPhxEh4//Q==",
   "success": true,
-  "projectFilePath": "E:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj",
+  "projectFilePath": "e:\\Program Files (x86)\\trabalho\\Curso Allog Enter\\Modulo 3\\ex_redis\\src\\AllogRedis.Api\\AllogRedis.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Avell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Avell\\.nuget\\packages\\masstransit\\8.0.16\\masstransit.8.0.16.nupkg.sha512",

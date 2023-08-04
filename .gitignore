@@ -1,1 +1,5 @@
 /.vscode
+/src/AllogRedis.Api/obj
+/src/AllogRedis.Api/bin
+/src/AllogRedis.Shared/obj
+/src/AllogRedis.Shared/bin
