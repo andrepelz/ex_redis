@@ -47,6 +47,8 @@ public class CotacaoController : ControllerBase
 
         var cacheResultSet = JsonSerializer.Serialize<IEnumerable<Cotacao>>(result);
         await cache.StringSetAsync($"cotacoes_{date}", cacheResultSet);
+        await cache.KeyExpireAsync($"cotacoes_{date}", TimeSpan.FromSeconds(120));
+
 
         return result.Any() ? Ok(result) : NotFound();
     }
